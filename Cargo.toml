@@ -1,0 +1,9 @@
+[package]
+name = "Inscription"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+opengl = "=0.1.0"
+mats = "=0.1.5"
+glfw = "=0.59.0"
